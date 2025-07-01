@@ -20,6 +20,6 @@ HTML • CSS • JavaScript • Git • GitHub • Tailwind
 - Keep expanding my knowledge and improving my skills
 
 ## 📌 Featured Projects
-🔧 Portfolio: https://sotirisxanthopoulos.netlify.app/
-📝 To-Do App (coming soon)  
-🌤️ Weather App (coming soon)
+- 🔧 Portfolio: https://sotirisxanthopoulos.netlify.app/
+- 📝 To-Do App (coming soon)  
+- 🌤️ Weather App (coming soon)
