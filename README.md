@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👋 Hi, I'm Soteres!
 
-I'm a self-taught web developer focused on building clean, responsive websites with HTML, CSS, and JavaScript.
+I'm a self-taught web developer focused on building clean, responsive websites with HTML, CSS, JavaScript, and React.
 
 - 🔭 Currently building: my portfolio & small web apps
 - 🌱 Learning: JavaScript DOM, APIs, and React
