@@ -1,16 +1,25 @@
 ## Hi there 👋
+# 👋 Hi, I'm Soteres!
 
-<!--
-**Soteres-X/Soteres-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught web developer focused on building clean, responsive websites with HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+- 🔭 Currently building: my portfolio & small web apps
+- 🌱 Learning: JavaScript DOM, APIs, and React
+- 👨‍💻 Projects coming soon! Stay tuned 👇
+- 📫 Contact: soteresx.dev@gmail.com | [LinkedIn] to-be-added
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+HTML • CSS • JavaScript • Git • GitHub • Tailwind
+
+## ⚡ Goals
+- Freelance client work 💼  
+- Build a full-stack app by end of the year 💻  
+- Grow as a full-stack developer 🚀
+- Build real-world projects
+- Work with clients or small teams
+- Keep expanding my knowledge and improving my skills
+
+## 📌 Featured Projects
+🔧 Portfolio (coming soon)  
+📝 To-Do App (coming soon)  
+🌤️ Weather App (coming soon)
