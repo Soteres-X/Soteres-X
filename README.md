@@ -5,7 +5,7 @@ I'm a self-taught web developer focused on building clean, responsive websites w
 - 🔭 Currently building: my portfolio & small web apps
 - 🌱 Learning: JavaScript DOM, APIs, and React
 - 👨‍💻 Projects coming soon! Stay tuned 👇
-- 📫 Contact: soteresx.dev@gmail.com | [LinkedIn] to-be-added
+- 📫 Contact: soteresx.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/soteres-xanthopoulos-463818372/)
 
 ## 🛠 Tech Stack
 HTML • CSS • JavaScript • Git • GitHub • Tailwind
