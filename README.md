@@ -8,7 +8,7 @@ I'm a self-taught web developer focused on building clean, responsive websites w
 - 📫 Contact: soteresx.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/soteres-xanthopoulos-463818372/)
 
 ## 🛠 Tech Stack
-HTML • CSS • JavaScript • Git • GitHub • Tailwind
+HTML • CSS • JavaScript • Git • GitHub • Tailwind • React
 
 ## ⚡ Goals
 - Freelance client work 💼  
